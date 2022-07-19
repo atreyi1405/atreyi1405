@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😃 I'm Atreyi Srivastava (she/her), third year student pursuing Bachelor's in Software Engineering at McGill University, Canada. 
 - 🔭 My area of expertise includes software development, customer-centric data analysis and digital marketing. 
 - 🙌🏻 I am recognized for showing professionalism, strong relationship skills, ability to collaborate and for providing industry-leading solutions. In addition to that my strong problem-solving skills partnered with that of communication helps accelerate the process of decision-making and time management.
-- 🤩 Over the years, I have held several IT related and leadership positions such as Front End Developer, SEO Analyst and Vice President of Communications and more.
+- 🤩 Over the years, I have held several IT related and leadership positions such as Front End Developer, SEO Analyst, Vice President of Communications and more.
 - 😄 I have been successful at managing multiple priorities with a positive attitude. I'm intellectually curious and show utmost willingness to take on added responsibilities to meet team goals.
 - 📫 I'd love to have a chat with you, you can reach me at atreyi.srivastava@mail.mcgill.ca 
 - ⚡ Fun fact: I'm bad at coming up with these
