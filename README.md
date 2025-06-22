@@ -10,19 +10,6 @@ I'm **Atreyi Srivastava** (she/her), a recent Software Engineering graduate from
 
 ---
 
-### 💼 Experience
-**Customer Experience Consultant-SDE (Graduate Leadership Program)** — Bell Canada  
-*(May 2023 – Aug 2023)*  
-- Developed a **Kotlin-based** application reducing UI errors for real-time customer interactions.  
-- Applied **ML algorithms** and **SQL** to reduce customer churn by 12% and improve retention strategies.  
-- Designed data-driven recommender systems, enhancing client experience by 9.6%.
-
-**Front-End Software Developer** — TargetCatcher Inc.  
-*(May 2022 – Aug 2022)*  
-- Spearheaded the front-end of a B2B product with **AngularJS**, reducing time to market by 30% and improving customer engagement by 25% through tailored SEO strategies.
-
----
-
 ### 🧑‍💻 Featured Projects
 #### 🏥 [AI Digital Nurse Avatar (ADiNA)](https://www.youtube.com/watch?v=-ZiuRv4fQ0M) — Project Lead
 *(Python, Unity, Hugging Face, Azure)*  
