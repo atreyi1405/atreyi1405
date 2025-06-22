@@ -12,11 +12,9 @@ I'm **Atreyi Srivastava** (she/her), a recent Software Engineering graduate from
 
 ### 🧑‍💻 Featured Projects
 #### 🏥 [AI Digital Nurse Avatar (ADiNA)](https://www.youtube.com/watch?v=-ZiuRv4fQ0M) — Project Lead
-*(Python, Unity, Hugging Face, Azure)*  
 Led a team to build a **conversational AI** for automated triage and patient interactions. Applied **speech synthesis**, **prompt engineering**, and AI-driven insights to improve healthcare accessibility.
 
-#### 🎮 [AI Othello Player](https://github.com/atreyi1405/AI-Othello-Player) — Developer  
-*(Python)*  
+#### 🎮 [AI Othello Player](https://github.com/atreyi1405/AI-Othello-Player) — Developer   
 Developed an AI game agent using **Minimax**, **Alpha-Beta Pruning**, and **Monte Carlo Tree Search**, reaching 100% win-rate with optimised decision-making strategies, reducing execution time to ~1.9 seconds per turn.
 
 #### 💸 [AP Transaction Monitor Dashboard](https://github.com/atreyi1405/AP_Monitor_Dashboard.git) — Developer  
