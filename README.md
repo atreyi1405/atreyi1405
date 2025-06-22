@@ -10,7 +10,7 @@ I'm **Atreyi Srivastava** (she/her), a recent Software Engineering graduate from
 
 ---
 
-### 🧑‍💻 Featured Projects
+### Featured Projects
 #### 🏥 [AI Digital Nurse Avatar (ADiNA)](https://www.youtube.com/watch?v=-ZiuRv4fQ0M) — Project Lead
 Led a team to build a **conversational AI** for automated triage and patient interactions. Applied **speech synthesis**, **prompt engineering**, and AI-driven insights to improve healthcare accessibility.
 
@@ -23,7 +23,7 @@ Created a transaction dashboard for invoice processing. Designed data models and
 
 ---
 
-### 🧠 Skills
+### Skills
 **Languages & Frameworks:** Java, Python, C#, Kotlin, Unity, Angular, React, NodeJS  
 **Cloud & Tools:** Azure, AWS, Docker, Git, JIRA, Kanban, Trello  
 **Data & AI:** SQL, MongoDB, PostgreSQL, Power BI, Tableau, AI/ML  
