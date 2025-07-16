@@ -4,6 +4,7 @@ I'm **Atreyi Srivastava** (she/her), a recent Software Engineering graduate from
 
 - 💡 I’m passionate about creating intuitive, data-driven solutions that enhance user experiences.
 - 🧠 My expertise spans software development, cybersecurity, data analytics, and AI research.
+- 🌟 I have been [Certified In Cybersecurity](https://www.credly.com/badges/b398e2c7-df47-45d1-ae74-4029d332cdce/public_url) by ISC2
 - 🌐 I’m experienced with Agile methodologies and have a strong track record of delivering high-impact solutions in diverse, collaborative teams.
 - ✉️ Reach me at [atreyi.srivastava@mail.mcgill.ca](mailto:atreyi.srivastava@mail.mcgill.ca) or connect with me on [LinkedIn](https://www.linkedin.com/in/atreyi-srivastava/).  
 - ⚡ Fun fact: I enjoy applying AI to classic games and healthcare!
